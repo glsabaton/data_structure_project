@@ -36,8 +36,8 @@ int main() {
 	for (int q = 0; q < 22; q++) {
 
 		//File name modifications
-		fileName[8] = 48 + (q % 10);
-		fileName[7] = 48 + int(q / 10);
+		fileName[18] = 48 + (q % 10);
+		fileName[17] = 48 + int(q / 10);
 
 		ifstream file(fileName);
 		
