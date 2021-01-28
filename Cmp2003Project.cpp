@@ -30,7 +30,7 @@ int main() {
 	createStopWordArray(stopWordArray, intArr);
 
 
-	string fileName = "reut2-000.sgm";
+	string fileName = "Documents/reut2-000.sgm";
 	myStructure strSturct;
 
 	for (int q = 0; q < 22; q++) {
