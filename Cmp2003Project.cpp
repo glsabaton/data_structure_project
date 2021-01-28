@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <ctime>
-#include "structureTest.h"
+#include "structure.h"
 using namespace std;
 
 
